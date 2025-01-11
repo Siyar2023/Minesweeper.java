@@ -1,0 +1,55 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Ignorera otrackade projekt och mappar
+BlackjackGame/
+DataSecurityProject/
+DungeonRun/
+DungeonrunDB/
+EP_Projekt/
+EnterpriseProjecto/
+EnterpriseProjectore/
+EnterpriseProjekt/
+Git/
+Git_Exempel/
+Git_Projekt/
+Git_ovning/
+GroupProjectMovies/
+ITSecurity/
+ProjektArbete/
+Tarning/
+enterprise_projektet/
+enterprise_projektor/
+projekt_arbetet/
+securityProject/
+ws_Projektarbete/
+
+# Ignorera vanliga systemfiler
+*.log
