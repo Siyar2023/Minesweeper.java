@@ -178,3 +178,10 @@ public class Minesweeper extends Application {
         alert.showAndWait();  // Show the alert and wait for the user to close it
     }
 }
+
+/*
+ A simple JavaFX game based Minesweeper where players click cells on a 12x12 grid,
+ avoiding mines. It features a restart button, mine placement,
+ flagging with right click, and reveals surrounding cells with no adjacent mines.
+ If a mine is clicked, the game ends. Players win by uncovering all safe cells.
+  */
